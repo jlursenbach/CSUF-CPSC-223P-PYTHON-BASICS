@@ -1,1 +1,4 @@
-#This is the data folder
+# SECTIONS:
+
+Syllabus
+
