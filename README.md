@@ -1,2 +1,4 @@
-# cpsc-223p-python-basics-
+# CSUF-CPSC-223P-PYTHON-BASICS
 Notes for CSUF CPSC 223P Fall 2022
+
+
