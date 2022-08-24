@@ -1,5 +1,5 @@
 """
-Name: Jacobu Ursenbach
+Name: Jacob Ursenbach
 Date: 20220824
 File Purpose: Multiple Hello Functions
 """
